@@ -1,0 +1,988 @@
+.ipsIconAircraft {
+	background-image: url('icons/Aircraft.svg'); }
+	
+.ipsIconPlus {
+	background-image: url('icons/Plus.svg'); }
+
+.ipsIconAlert {
+	background-image: url('icons/Alert.svg'); }
+
+.ipsIconArrowRight {
+	background-image: url('icons/ArrowRight.svg'); }
+
+.ipsIconBackspace {
+	background-image: url('icons/Backspace.svg'); }
+
+.ipsIconBasement {
+	background-image: url('icons/Basement.svg'); }
+
+.ipsIconBattery-0 {
+	background-image: url('icons/Battery-0.svg'); }
+
+.ipsIconBattery-100 {
+	background-image: url('icons/Battery-100.svg'); }
+
+.ipsIconBattery-50 {
+	background-image: url('icons/Battery-50.svg'); }
+
+.ipsIconBattery {
+	background-image: url('icons/Battery.svg'); }
+
+.ipsIconBed {
+	background-image: url('icons/Bed.svg'); }
+
+.ipsIconBulb {
+	background-image: url('icons/Bulb.svg'); }
+
+.ipsIconButton {
+	background-image: url('icons/Power.svg'); }
+
+.ipsIconCalendar {
+	background-image: url('icons/Calendar.svg'); }
+
+.ipsIconCamera {
+	background-image: url('icons/Camera.svg'); }
+
+.ipsIconCar {
+	background-image: url('icons/Car.svg'); }
+
+.ipsIconCaret {
+	background-image: url('icons/Caret.svg'); }
+
+.ipsIconCat {
+	background-image: url('icons/Cat.svg'); }
+
+.ipsIconClimate {
+	background-image: url('icons/Climate.svg'); }
+
+.ipsIconClock {
+	background-image: url('icons/Clock.svg'); }
+
+.ipsIconClose {
+	background-image: url('icons/Close.svg'); }
+	
+.ipsIconCloseAll {
+	background-image: url('icons/CloseAll.svg'); }
+
+.ipsIconCloud {
+	background-image: url('icons/Cloud.svg'); }
+
+.ipsIconCocktail {
+	background-image: url('icons/Cocktail.svg'); }
+
+.ipsIconColours {
+	background-image: url('icons/Colours.svg'); }
+
+.ipsIconCross {
+	background-image: url('icons/Cross.svg'); }
+
+.ipsIconDatabase {
+	background-image: url('icons/Database.svg'); }
+
+.ipsIconDining {
+	background-image: url('icons/Dining.svg'); }
+
+.ipsIconDistance {
+	background-image: url('icons/Distance.svg'); }
+
+.ipsIconDoctorBag {
+	background-image: url('icons/DoctorBag.svg'); }
+
+.ipsIconDog {
+	background-image: url('icons/Dog.svg'); }
+
+.ipsIconDollar {
+	background-image: url('icons/Dollar.svg'); }
+
+.ipsIconDrops {
+	background-image: url('icons/Drops.svg'); }
+
+.ipsIconDuck {
+	background-image: url('icons/Duck.svg'); }
+
+.ipsIconEdit {
+	background-image: url('icons/Edit.svg'); }
+
+.ipsIconElectricity {
+	background-image: url('icons/Electricity.svg'); }
+
+.ipsIconErlenmeyerFlask {
+	background-image: url('icons/ErlenmeyerFlask.svg'); }
+
+.ipsIconEuro {
+	background-image: url('icons/Euro.svg'); }
+
+.ipsIconExecute {
+	background-image: url('icons/Execute.svg'); }
+
+.ipsIconEyes {
+	background-image: url('icons/Eyes.svg'); }
+
+.ipsIconEyes-0 {
+	background-image: url('icons/Eyes-0.svg'); }
+
+.ipsIconEyes-100 {
+	background-image: url('icons/Eyes-100.svg'); }
+
+.ipsIconFactory {
+	background-image: url('icons/Factory.svg'); }
+
+.ipsIconFemale {
+	background-image: url('icons/Female.svg'); }
+
+.ipsIconFlag {
+	background-image: url('icons/Flag.svg'); }
+
+.ipsIconFlame {
+	background-image: url('icons/Flame.svg'); }
+
+.ipsIconFlower {
+	background-image: url('icons/Flower.svg'); }
+
+.ipsIconFog {
+	background-image: url('icons/Fog.svg'); }
+
+.ipsIconGarage-0 {
+	background-image: url('icons/Garage-0.svg'); }
+
+.ipsIconGarage-100 {
+	background-image: url('icons/Garage-100.svg'); }
+
+.ipsIconGarage-25 {
+	background-image: url('icons/Garage-25.svg'); }
+
+.ipsIconGarage {
+	background-image: url('icons/Garage.svg'); }
+
+.ipsIconGauge {
+	background-image: url('icons/Gauge.svg'); }
+
+.ipsIconGear {
+	background-image: url('icons/Gear.svg'); }
+
+.ipsIconGraph {
+	background-image: url('icons/Graph.svg'); }
+
+.ipsIconGroundFloor {
+	background-image: url('icons/GroundFloor.svg'); }
+
+.ipsIconHollowArrowDown {
+	background-image: url('icons/HollowArrowDown.svg'); }
+
+.ipsIconHollowArrowLeft {
+	background-image: url('icons/HollowArrowLeft.svg'); }
+
+.ipsIconHollowArrowRight {
+	background-image: url('icons/HollowArrowRight.svg'); }
+
+.ipsIconHollowArrowUp {
+	background-image: url('icons/HollowArrowUp.svg'); }
+
+.ipsIconHollowDoubleArrowDown {
+	background-image: url('icons/HollowDoubleArrowDown.svg'); }
+
+.ipsIconHollowDoubleArrowLeft {
+	background-image: url('icons/HollowDoubleArrowLeft.svg'); }
+
+.ipsIconHollowDoubleArrowRight {
+	background-image: url('icons/HollowDoubleArrowRight.svg'); }
+
+.ipsIconHollowDoubleArrowUp {
+	background-image: url('icons/HollowDoubleArrowUp.svg'); }
+
+.ipsIconHollowLargeArrowDown {
+	background-image: url('icons/HollowLargeArrowDown.svg'); }
+
+.ipsIconHollowLargeArrowLeft {
+	background-image: url('icons/HollowLargeArrowLeft.svg'); }
+
+.ipsIconHollowLargeArrowRight {
+	background-image: url('icons/HollowLargeArrowRight.svg'); }
+
+.ipsIconHollowLargeArrowUp {
+	background-image: url('icons/HollowLargeArrowUp.svg'); }
+
+.ipsIconHourglass-0 {
+	background-image: url('icons/Hourglass-0.svg'); }
+
+.ipsIconHourglass-100 {
+	background-image: url('icons/Hourglass-100.svg'); }
+
+.ipsIconHourglass-30 {
+	background-image: url('icons/Hourglass-30.svg'); }
+
+.ipsIconHourglass-50 {
+	background-image: url('icons/Hourglass-50.svg'); }
+
+.ipsIconHourglass-60 {
+	background-image: url('icons/Hourglass-60.svg'); }
+
+.ipsIconHourglass {
+	background-image: url('icons/Hourglass.svg'); }
+
+.ipsIconIPS {
+	background-image: url('icons/IPS.svg'); }
+
+.ipsIconImage {
+	background-image: url('icons/Image.svg'); }
+
+.ipsIconInformation {
+	background-image: url('icons/Information.svg'); }
+
+.ipsIconIntensity {
+	background-image: url('icons/Intensity.svg'); }
+	
+.ipsIconIntensity-0 {
+  background-image: url('icons/Intensity-0.svg'); }
+
+.ipsIconIntensity-25 {
+  background-image: url('icons/Intensity-25.svg'); }
+
+.ipsIconIntensity-50 {
+  background-image: url('icons/Intensity-50.svg'); }
+
+.ipsIconIntensity-75 {
+  background-image: url('icons/Intensity-75.svg'); }
+
+.ipsIconIntensity-100 {
+  background-image: url('icons/Intensity-100.svg'); }
+
+.ipsIconInternet {
+	background-image: url('icons/Internet.svg'); }
+
+.ipsIconJalousie-0 {
+	background-image: url('icons/Jalousie-0.svg'); }
+
+.ipsIconJalousie-100 {
+	background-image: url('icons/Jalousie-100.svg'); }
+
+.ipsIconJalousie-50 {
+	background-image: url('icons/Jalousie-50.svg'); }
+
+.ipsIconJalousie {
+	background-image: url('icons/Jalousie.svg'); }
+
+.ipsIconKey {
+	background-image: url('icons/Key.svg'); }
+
+.ipsIconKeyboard {
+	background-image: url('icons/Keyboard.svg'); }
+
+.ipsIconKitchen {
+	background-image: url('icons/Kitchen.svg'); }
+
+.ipsIconLeaf {
+	background-image: url('icons/Leaf.svg'); }
+
+.ipsIconLight-0 {
+	background-image: url('icons/Light-0.svg'); }
+
+.ipsIconLight-1 {
+	background-image: url('icons/Light-1.svg'); }
+
+.ipsIconLight-100 {
+	background-image: url('icons/Light-100.svg'); }
+
+.ipsIconLight-25 {
+	background-image: url('icons/Light-25.svg'); }
+
+.ipsIconLight-50 {
+	background-image: url('icons/Light-50.svg'); }
+
+.ipsIconLight-75 {
+	background-image: url('icons/Light-75.svg'); }
+
+.ipsIconLight {
+	background-image: url('icons/Light.svg'); }
+
+.ipsIconLightning {
+	background-image: url('icons/Lightning.svg'); }
+
+.ipsIconLock {
+	background-image: url('icons/Lock.svg'); }
+
+.ipsIconLock-0 {
+	background-image: url('icons/Lock-0.svg'); }
+
+.ipsIconLock-100 {
+	background-image: url('icons/Lock-100.svg'); }
+
+.ipsIconLockClosed {
+	background-image: url('icons/LockClosed.svg'); }
+
+.ipsIconLockOpen {
+	background-image: url('icons/LockOpen.svg'); }
+
+.ipsIconMacro {
+	background-image: url('icons/Macro.svg'); }
+
+.ipsIconMail {
+	background-image: url('icons/Mail.svg'); }
+
+.ipsIconMale {
+	background-image: url('icons/Male.svg'); }
+
+.ipsIconMelody {
+	background-image: url('icons/Melody.svg'); }
+	
+.ipsIconMinus {
+	background-image: url('icons/Minus.svg'); }
+
+.ipsIconMobile {
+	background-image: url('icons/Mobile.svg'); }
+
+.ipsIconMoon {
+	background-image: url('icons/Moon.svg'); }
+
+.ipsIconMotion {
+	background-image: url('icons/Motion.svg'); }
+
+.ipsIconMove {
+	background-image: url('icons/Move.svg'); }
+
+.ipsIconMusic {
+	background-image: url('icons/Music.svg'); }
+
+.ipsIconNetwork {
+	background-image: url('icons/Network.svg'); }
+
+.ipsIconNotebook {
+	background-image: url('icons/Notebook.svg'); }
+
+.ipsIconOk {
+	background-image: url('icons/Ok.svg'); }
+
+.ipsIconPacifier {
+	background-image: url('icons/Pacifier.svg'); }
+	
+.ipsIconPaintbrush {
+	background-image: url('icons/Paintbrush.svg'); }
+
+.ipsIconPlug {
+	background-image: url('icons/Plug.svg'); }
+
+.ipsIconPopcorn {
+	background-image: url('icons/Popcorn.svg'); }
+
+.ipsIconPower-0,
+.ipsIconPower-100,
+.ipsIconPower {
+	background-image: url('icons/Power.svg'); }
+
+.ipsIconRadiator {
+	background-image: url('icons/Radiator.svg'); }
+
+.ipsIconRainfall {
+	background-image: url('icons/Rainfall.svg'); }
+
+.ipsIconRecycling {
+	background-image: url('icons/Recycling.svg'); }
+
+.ipsIconRepeat {
+	background-image: url('icons/Repeat.svg'); }
+
+.ipsIconReturn {
+	background-image: url('icons/Return.svg'); }
+
+.ipsIconRobot {
+	background-image: url('icons/Robot.svg'); }
+
+.ipsIconRocket {
+	background-image: url('icons/Rocket.svg'); }
+
+.ipsIconScript {
+	background-image: url('icons/Script.svg'); }
+
+.ipsIconShift {
+	background-image: url('icons/Shift.svg'); }
+
+.ipsIconShower {
+	background-image: url('icons/Shower.svg'); }
+
+.ipsIconShuffle {
+	background-image: url('icons/Shuffle.svg'); }
+
+.ipsIconShutter {
+	background-image: url('icons/Shutter.svg'); }
+
+.ipsIconSleep {
+	background-image: url('icons/Sleep.svg'); }
+
+.ipsIconSnow {
+	background-image: url('icons/Snow.svg'); }
+
+.ipsIconSnowflake {
+	background-image: url('icons/Snowflake.svg'); }
+
+.ipsIconSofa {
+	background-image: url('icons/Sofa.svg'); }
+
+.ipsIconSpeaker-0 {
+	background-image: url('icons/Speaker-0.svg'); }
+
+.ipsIconSpeaker-1 {
+	background-image: url('icons/Speaker-1.svg'); }
+
+.ipsIconSpeaker-100 {
+	background-image: url('icons/Speaker-100.svg'); }
+
+.ipsIconSpeaker-25 {
+	background-image: url('icons/Speaker-25.svg'); }
+
+.ipsIconSpeaker-50 {
+	background-image: url('icons/Speaker-50.svg'); }
+
+.ipsIconSpeaker {
+	background-image: url('icons/Speaker.svg'); }
+
+.ipsIconSpeedo-0 {
+	background-image: url('icons/Speedo-0.svg'); }
+
+.ipsIconSpeedo-100 {
+	background-image: url('icons/Speedo-100.svg'); }
+
+.ipsIconSpeedo-25 {
+	background-image: url('icons/Speedo-25.svg'); }
+
+.ipsIconSpeedo-50 {
+	background-image: url('icons/Speedo-50.svg'); }
+
+.ipsIconSpeedo-75 {
+	background-image: url('icons/Speedo-75.svg'); }
+
+.ipsIconSpeedo {
+	background-image: url('icons/Speedo.svg'); }
+
+.ipsIconStars {
+	background-image: url('icons/Stars.svg'); }
+
+.ipsIconSun {
+	background-image: url('icons/Sun.svg'); }
+
+.ipsIconTV {
+	background-image: url('icons/TV.svg'); }
+
+.ipsIconTap {
+	background-image: url('icons/Tap.svg'); }
+
+.ipsIconTelephone {
+	background-image: url('icons/Telephone.svg'); }
+
+.ipsIconTemperature-0 {
+	background-image: url('icons/Temperature-0.svg'); }
+
+.ipsIconTemperature-100 {
+	background-image: url('icons/Temperature-100.svg'); }
+
+.ipsIconTemperature-25 {
+	background-image: url('icons/Temperature-25.svg'); }
+
+.ipsIconTemperature-50 {
+	background-image: url('icons/Temperature-50.svg'); }
+
+.ipsIconTemperature-75 {
+	background-image: url('icons/Temperature-75.svg'); }
+
+.ipsIconTemperature {
+	background-image: url('icons/Temperature.svg'); }
+
+.ipsIconTitle {
+	background-image: url('icons/Title.svg'); }
+
+.ipsIconTopFloor {
+	background-image: url('icons/TopFloor.svg'); }
+
+.ipsIconTree {
+	background-image: url('icons/Tree.svg'); }
+
+.ipsIconTurnLeft {
+	background-image: url('icons/TurnLeft.svg'); }
+
+.ipsIconTurnRight {
+	background-image: url('icons/TurnRight.svg'); }
+
+.ipsIconUhrzeit {
+	background-image: url('icons/Uhrzeit'); }
+
+.ipsIconUnicorn {
+	background-image: url('icons/Unicorn.svg'); }
+
+.ipsIconVentilation {
+	background-image: url('icons/Ventilation.svg'); }
+
+.ipsIconWC {
+	background-image: url('icons/WC.svg'); }
+
+.ipsIconWarning {
+	background-image: url('icons/Warning.svg'); }
+
+.ipsIconWave {
+	background-image: url('icons/Wave.svg'); }
+
+.ipsIconWellness {
+	background-image: url('icons/Wellness.svg'); }
+
+.ipsIconWindDirection {
+	background-image: url('icons/WindDirection.svg'); }
+
+.ipsIconWindSpeed-0 {
+	background-image: url('icons/WindSpeed-0.svg'); }
+
+.ipsIconWindSpeed-100 {
+	background-image: url('icons/WindSpeed-100.svg'); }
+
+.ipsIconWindSpeed-30 {
+	background-image: url('icons/WindSpeed-30.svg'); }
+
+.ipsIconWindSpeed-60 {
+	background-image: url('icons/WindSpeed-60.svg'); }
+
+.ipsIconWindSpeed {
+	background-image: url('icons/WindSpeed.svg'); }
+
+.ipsIconWindow-0 {
+	background-image: url('icons/Window-0.svg'); }
+
+.ipsIconWindow-100 {
+	background-image: url('icons/Window-100.svg'); }
+
+.ipsIconWindow {
+	background-image: url('icons/Window.svg'); }
+
+.ipsIconXBMC {
+	background-image: url('icons/XBMC.svg'); }
+
+.ipsIconClock-12-00 {
+	background-image: url('icons/clock/Clock-12-00.svg'); }
+
+.ipsIconClock-13-00 {
+	background-image: url('icons/clock/Clock-13-00.svg'); }
+
+.ipsIconClock-13-05 {
+	background-image: url('icons/clock/Clock-13-05.svg'); }
+
+.ipsIconClock-13-10 {
+	background-image: url('icons/clock/Clock-13-10.svg'); }
+
+.ipsIconClock-13-15 {
+	background-image: url('icons/clock/Clock-13-15.svg'); }
+
+.ipsIconClock-13-20 {
+	background-image: url('icons/clock/Clock-13-20.svg'); }
+
+.ipsIconClock-13-25 {
+	background-image: url('icons/clock/Clock-13-25.svg'); }
+
+.ipsIconClock-13-30 {
+	background-image: url('icons/clock/Clock-13-30.svg'); }
+
+.ipsIconClock-13-35 {
+	background-image: url('icons/clock/Clock-13-35.svg'); }
+
+.ipsIconClock-13-40 {
+	background-image: url('icons/clock/Clock-13-40.svg'); }
+
+.ipsIconClock-13-45 {
+	background-image: url('icons/clock/Clock-13-45.svg'); }
+
+.ipsIconClock-13-50 {
+	background-image: url('icons/clock/Clock-13-50.svg'); }
+
+.ipsIconClock-13-55 {
+	background-image: url('icons/clock/Clock-13-55.svg'); }
+
+.ipsIconClock-14-00 {
+	background-image: url('icons/clock/Clock-14-00.svg'); }
+
+.ipsIconClock-14-05 {
+	background-image: url('icons/clock/Clock-14-05.svg'); }
+
+.ipsIconClock-14-10 {
+	background-image: url('icons/clock/Clock-14-10.svg'); }
+
+.ipsIconClock-14-15 {
+	background-image: url('icons/clock/Clock-14-15.svg'); }
+
+.ipsIconClock-14-20 {
+	background-image: url('icons/clock/Clock-14-20.svg'); }
+
+.ipsIconClock-14-25 {
+	background-image: url('icons/clock/Clock-14-25.svg'); }
+
+.ipsIconClock-14-30 {
+	background-image: url('icons/clock/Clock-14-30.svg'); }
+
+.ipsIconClock-14-35 {
+	background-image: url('icons/clock/Clock-14-35.svg'); }
+
+.ipsIconClock-14-40 {
+	background-image: url('icons/clock/Clock-14-40.svg'); }
+
+.ipsIconClock-14-45 {
+	background-image: url('icons/clock/Clock-14-45.svg'); }
+
+.ipsIconClock-14-50 {
+	background-image: url('icons/clock/Clock-14-50.svg'); }
+
+.ipsIconClock-14-55 {
+	background-image: url('icons/clock/Clock-14-55.svg'); }
+
+.ipsIconClock-15-00 {
+	background-image: url('icons/clock/Clock-15-00.svg'); }
+
+.ipsIconClock-15-05 {
+	background-image: url('icons/clock/Clock-15-05.svg'); }
+
+.ipsIconClock-15-10 {
+	background-image: url('icons/clock/Clock-15-10.svg'); }
+
+.ipsIconClock-15-15 {
+	background-image: url('icons/clock/Clock-15-15.svg'); }
+
+.ipsIconClock-15-20 {
+	background-image: url('icons/clock/Clock-15-20.svg'); }
+
+.ipsIconClock-15-25 {
+	background-image: url('icons/clock/Clock-15-25.svg'); }
+
+.ipsIconClock-15-30 {
+	background-image: url('icons/clock/Clock-15-30.svg'); }
+
+.ipsIconClock-15-35 {
+	background-image: url('icons/clock/Clock-15-35.svg'); }
+
+.ipsIconClock-15-40 {
+	background-image: url('icons/clock/Clock-15-40.svg'); }
+
+.ipsIconClock-15-45 {
+	background-image: url('icons/clock/Clock-15-45.svg'); }
+
+.ipsIconClock-15-50 {
+	background-image: url('icons/clock/Clock-15-50.svg'); }
+
+.ipsIconClock-15-55 {
+	background-image: url('icons/clock/Clock-15-55.svg'); }
+
+.ipsIconClock-16-00 {
+	background-image: url('icons/clock/Clock-16-00.svg'); }
+
+.ipsIconClock-16-05 {
+	background-image: url('icons/clock/Clock-16-05.svg'); }
+
+.ipsIconClock-16-10 {
+	background-image: url('icons/clock/Clock-16-10.svg'); }
+
+.ipsIconClock-16-15 {
+	background-image: url('icons/clock/Clock-16-15.svg'); }
+
+.ipsIconClock-16-20 {
+	background-image: url('icons/clock/Clock-16-20.svg'); }
+
+.ipsIconClock-16-25 {
+	background-image: url('icons/clock/Clock-16-25.svg'); }
+
+.ipsIconClock-16-30 {
+	background-image: url('icons/clock/Clock-16-30.svg'); }
+
+.ipsIconClock-16-35 {
+	background-image: url('icons/clock/Clock-16-35.svg'); }
+
+.ipsIconClock-16-40 {
+	background-image: url('icons/clock/Clock-16-40.svg'); }
+
+.ipsIconClock-16-45 {
+	background-image: url('icons/clock/Clock-16-45.svg'); }
+
+.ipsIconClock-16-50 {
+	background-image: url('icons/clock/Clock-16-50.svg'); }
+
+.ipsIconClock-16-55 {
+	background-image: url('icons/clock/Clock-16-55.svg'); }
+
+.ipsIconClock-17-00 {
+	background-image: url('icons/clock/Clock-17-00.svg'); }
+
+.ipsIconClock-17-05 {
+	background-image: url('icons/clock/Clock-17-05.svg'); }
+
+.ipsIconClock-17-10 {
+	background-image: url('icons/clock/Clock-17-10.svg'); }
+
+.ipsIconClock-17-15 {
+	background-image: url('icons/clock/Clock-17-15.svg'); }
+
+.ipsIconClock-17-20 {
+	background-image: url('icons/clock/Clock-17-20.svg'); }
+
+.ipsIconClock-17-25 {
+	background-image: url('icons/clock/Clock-17-25.svg'); }
+
+.ipsIconClock-17-30 {
+	background-image: url('icons/clock/Clock-17-30.svg'); }
+
+.ipsIconClock-17-35 {
+	background-image: url('icons/clock/Clock-17-35.svg'); }
+
+.ipsIconClock-17-40 {
+	background-image: url('icons/clock/Clock-17-40.svg'); }
+
+.ipsIconClock-17-45 {
+	background-image: url('icons/clock/Clock-17-45.svg'); }
+
+.ipsIconClock-17-50 {
+	background-image: url('icons/clock/Clock-17-50.svg'); }
+
+.ipsIconClock-17-55 {
+	background-image: url('icons/clock/Clock-17-55.svg'); }
+
+.ipsIconClock-18-00 {
+	background-image: url('icons/clock/Clock-18-00.svg'); }
+
+.ipsIconClock-18-05 {
+	background-image: url('icons/clock/Clock-18-05.svg'); }
+
+.ipsIconClock-18-10 {
+	background-image: url('icons/clock/Clock-18-10.svg'); }
+
+.ipsIconClock-18-15 {
+	background-image: url('icons/clock/Clock-18-15.svg'); }
+
+.ipsIconClock-18-20 {
+	background-image: url('icons/clock/Clock-18-20.svg'); }
+
+.ipsIconClock-18-25 {
+	background-image: url('icons/clock/Clock-18-25.svg'); }
+
+.ipsIconClock-18-30 {
+	background-image: url('icons/clock/Clock-18-30.svg'); }
+
+.ipsIconClock-18-35 {
+	background-image: url('icons/clock/Clock-18-35.svg'); }
+
+.ipsIconClock-18-40 {
+	background-image: url('icons/clock/Clock-18-40.svg'); }
+
+.ipsIconClock-18-45 {
+	background-image: url('icons/clock/Clock-18-45.svg'); }
+
+.ipsIconClock-18-50 {
+	background-image: url('icons/clock/Clock-18-50.svg'); }
+
+.ipsIconClock-18-55 {
+	background-image: url('icons/clock/Clock-18-55.svg'); }
+
+.ipsIconClock-19-00 {
+	background-image: url('icons/clock/Clock-19-00.svg'); }
+
+.ipsIconClock-19-05 {
+	background-image: url('icons/clock/Clock-19-05.svg'); }
+
+.ipsIconClock-19-10 {
+	background-image: url('icons/clock/Clock-19-10.svg'); }
+
+.ipsIconClock-19-15 {
+	background-image: url('icons/clock/Clock-19-15.svg'); }
+
+.ipsIconClock-19-20 {
+	background-image: url('icons/clock/Clock-19-20.svg'); }
+
+.ipsIconClock-19-25 {
+	background-image: url('icons/clock/Clock-19-25.svg'); }
+
+.ipsIconClock-19-30 {
+	background-image: url('icons/clock/Clock-19-30.svg'); }
+
+.ipsIconClock-19-35 {
+	background-image: url('icons/clock/Clock-19-35.svg'); }
+
+.ipsIconClock-19-40 {
+	background-image: url('icons/clock/Clock-19-40.svg'); }
+
+.ipsIconClock-19-45 {
+	background-image: url('icons/clock/Clock-19-45.svg'); }
+
+.ipsIconClock-19-50 {
+	background-image: url('icons/clock/Clock-19-50.svg'); }
+
+.ipsIconClock-19-55 {
+	background-image: url('icons/clock/Clock-19-55.svg'); }
+
+.ipsIconClock-20-00 {
+	background-image: url('icons/clock/Clock-20-00.svg'); }
+
+.ipsIconClock-20-05 {
+	background-image: url('icons/clock/Clock-20-05.svg'); }
+
+.ipsIconClock-20-10 {
+	background-image: url('icons/clock/Clock-20-10.svg'); }
+
+.ipsIconClock-20-15 {
+	background-image: url('icons/clock/Clock-20-15.svg'); }
+
+.ipsIconClock-20-20 {
+	background-image: url('icons/clock/Clock-20-20.svg'); }
+
+.ipsIconClock-20-25 {
+	background-image: url('icons/clock/Clock-20-25.svg'); }
+
+.ipsIconClock-20-30 {
+	background-image: url('icons/clock/Clock-20-30.svg'); }
+
+.ipsIconClock-20-35 {
+	background-image: url('icons/clock/Clock-20-35.svg'); }
+
+.ipsIconClock-20-40 {
+	background-image: url('icons/clock/Clock-20-40.svg'); }
+
+.ipsIconClock-20-45 {
+	background-image: url('icons/clock/Clock-20-45.svg'); }
+
+.ipsIconClock-20-50 {
+	background-image: url('icons/clock/Clock-20-50.svg'); }
+
+.ipsIconClock-20-55 {
+	background-image: url('icons/clock/Clock-20-55.svg'); }
+
+.ipsIconClock-21-00 {
+	background-image: url('icons/clock/Clock-21-00.svg'); }
+
+.ipsIconClock-21-05 {
+	background-image: url('icons/clock/Clock-21-05.svg'); }
+
+.ipsIconClock-21-10 {
+	background-image: url('icons/clock/Clock-21-10.svg'); }
+
+.ipsIconClock-21-15 {
+	background-image: url('icons/clock/Clock-21-15.svg'); }
+
+.ipsIconClock-21-20 {
+	background-image: url('icons/clock/Clock-21-20.svg'); }
+
+.ipsIconClock-21-25 {
+	background-image: url('icons/clock/Clock-21-25.svg'); }
+
+.ipsIconClock-21-30 {
+	background-image: url('icons/clock/Clock-21-30.svg'); }
+
+.ipsIconClock-21-35 {
+	background-image: url('icons/clock/Clock-21-35.svg'); }
+
+.ipsIconClock-21-40 {
+	background-image: url('icons/clock/Clock-21-40.svg'); }
+
+.ipsIconClock-21-45 {
+	background-image: url('icons/clock/Clock-21-45.svg'); }
+
+.ipsIconClock-21-50 {
+	background-image: url('icons/clock/Clock-21-50.svg'); }
+
+.ipsIconClock-21-55 {
+	background-image: url('icons/clock/Clock-21-55.svg'); }
+
+.ipsIconClock-22-00 {
+	background-image: url('icons/clock/Clock-22-00.svg'); }
+
+.ipsIconClock-22-05 {
+	background-image: url('icons/clock/Clock-22-05.svg'); }
+
+.ipsIconClock-22-10 {
+	background-image: url('icons/clock/Clock-22-10.svg'); }
+
+.ipsIconClock-22-15 {
+	background-image: url('icons/clock/Clock-22-15.svg'); }
+
+.ipsIconClock-22-20 {
+	background-image: url('icons/clock/Clock-22-20.svg'); }
+
+.ipsIconClock-22-25 {
+	background-image: url('icons/clock/Clock-22-25.svg'); }
+
+.ipsIconClock-22-30 {
+	background-image: url('icons/clock/Clock-22-30.svg'); }
+
+.ipsIconClock-22-35 {
+	background-image: url('icons/clock/Clock-22-35.svg'); }
+
+.ipsIconClock-22-40 {
+	background-image: url('icons/clock/Clock-22-40.svg'); }
+
+.ipsIconClock-22-45 {
+	background-image: url('icons/clock/Clock-22-45.svg'); }
+
+.ipsIconClock-22-50 {
+	background-image: url('icons/clock/Clock-22-50.svg'); }
+
+.ipsIconClock-22-55 {
+	background-image: url('icons/clock/Clock-22-55.svg'); }
+
+.ipsIconClock-23-00 {
+	background-image: url('icons/clock/Clock-23-00.svg'); }
+
+.ipsIconClock-23-05 {
+	background-image: url('icons/clock/Clock-23-05.svg'); }
+
+.ipsIconClock-23-10 {
+	background-image: url('icons/clock/Clock-23-10.svg'); }
+
+.ipsIconClock-23-15 {
+	background-image: url('icons/clock/Clock-23-15.svg'); }
+
+.ipsIconClock-23-20 {
+	background-image: url('icons/clock/Clock-23-20.svg'); }
+
+.ipsIconClock-23-25 {
+	background-image: url('icons/clock/Clock-23-25.svg'); }
+
+.ipsIconClock-23-30 {
+	background-image: url('icons/clock/Clock-23-30.svg'); }
+
+.ipsIconClock-23-35 {
+	background-image: url('icons/clock/Clock-23-35.svg'); }
+
+.ipsIconClock-23-40 {
+	background-image: url('icons/clock/Clock-23-40.svg'); }
+
+.ipsIconClock-23-45 {
+	background-image: url('icons/clock/Clock-23-45.svg'); }
+
+.ipsIconClock-23-50 {
+	background-image: url('icons/clock/Clock-23-50.svg'); }
+
+.ipsIconClock-23-55 {
+	background-image: url('icons/clock/Clock-23-55.svg'); }
+	
+.ipsIconClock-24-00 {
+	background-image: url('icons/clock/Clock-12-00.svg'); }
+
+.ipsIconClock-24-05 {
+	background-image: url('icons/clock/Clock-12-05.svg'); }
+
+.ipsIconClock-24-10 {
+	background-image: url('icons/clock/Clock-12-10.svg'); }
+
+.ipsIconClock-24-15 {
+	background-image: url('icons/clock/Clock-12-15.svg'); }
+
+.ipsIconClock-24-20 {
+	background-image: url('icons/clock/Clock-12-20.svg'); }
+
+.ipsIconClock-24-25 {
+	background-image: url('icons/clock/Clock-12-25.svg'); }
+
+.ipsIconClock-24-30 {
+	background-image: url('icons/clock/Clock-12-30.svg'); }
+
+.ipsIconClock-24-35 {
+	background-image: url('icons/clock/Clock-12-35.svg'); }
+
+.ipsIconClock-24-40 {
+	background-image: url('icons/clock/Clock-12-40.svg'); }
+
+.ipsIconClock-24-45 {
+	background-image: url('icons/clock/Clock-12-45.svg'); }
+
+.ipsIconClock-24-50 {
+	background-image: url('icons/clock/Clock-12-50.svg'); }
+
+.ipsIconClock-24-55 {
+	background-image: url('icons/clock/Clock-12-55.svg'); }
