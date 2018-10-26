@@ -496,7 +496,44 @@ div.ipsPanel.ipsDWDReport .title {
     cursor: pointer;
     margin-top: 3px!important;
     background-image: url(icons/primary/Edit.svg); }
-        
+
+.ipsLogin>.content>.configurators>div>.lock.ipsIconLock {
+    opacity: 0.4;
+    filter: invert(100%);
+    bottom: 7px;
+    top: initial; }
+    
+.ipsLogin>.content>div.password>input {
+    background: white;
+    color: #606161;
+    width: 180px; }
+
+.ipsLogin>.content>div.password {
+    height: 60px;
+    position: absolute;
+    padding-top: 36px;
+    margin-top: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #cacaca;
+    animation: slide-up 0.6s ease-in-out; }
+
+.ipsLogin>.content>div.password>button {
+    background-color: white;
+    border-left: solid 1px lightgray;
+    background-image: url(icons/primary/LockOpen.svg); }
+    
+@keyframes slide-up {
+    0% {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
 /* Throbber */        
 .iconSpinner {
 	background-image: url(img/spinner.svg)!important; }
