@@ -300,7 +300,8 @@ div.ipsWebFront {
     width: calc(100% - 50px); }	
 
 /* Invertieren von Symbolen */
-.icon {
+.icon,
+.edit {
     filter: invert(0.6);
 }
 
@@ -392,7 +393,11 @@ html body .ipsDialog.ipsChartDialog > div {
 .ipsSplitPane.editable .new > .new-middle > .new-text {
 	margin: 0 auto;
     width: 22px; }
-	
+
+.ipsWebFront.editable>.save {
+    border: none;
+    background-color: #3aa9ff; }
+
 .sub  > .ipsIconEdit{
 margin-top: 5px; }
 	
