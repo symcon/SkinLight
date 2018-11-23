@@ -170,6 +170,9 @@ div.ipsWebFront {
 /*
  *	ipsNotification
  */
+.ipsNotifications>.ipsNotification>.message.icon {
+    filter: invert(0);
+}
 .ipsNotifications>.ipsNotification>.message {
 	background-color: #efefef!important;
     border-radius: 0!important;
