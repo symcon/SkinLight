@@ -246,7 +246,11 @@ div.ipsWebFront {
 /* FIXME: this is currently set hardcoded in the style - why? */
 .ipsDialog.ipsEventDialog>div>.content>.outerCenter>.center>.scheduleDayContainer>.day div {
     padding: 3px 3px 1px!important;
-}	
+}
+
+.ipsDialog.ipsScheduleEntryDialog .statusSelectBox > li:hover,
+.ipsDialog.ipsScheduleEntryDialog .statusSelectBox > li.active{
+    color: black; }
 
 /* ipsInstancePopup dialog */	
 /* FIXME: try this with more complex dialogs! */
