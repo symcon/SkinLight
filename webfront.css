@@ -341,8 +341,7 @@ div.ipsWebFront {
 
 .ipsDialog.ipsEditorDialog>div>.remove, 
 .ipsDialog.ipsEditorDialog>div>.save, 
-.ipsDialog.ipsEditorSelectDialog>div>.content .treeIcon, 
-.ipsDialog.ipsEditorSelectDialog>div>.content label {
+.ipsDialog.ipsEditorSelectDialog>div>.content .treeIcon {
 	filter: invert(0.6);
 }
 
