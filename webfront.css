@@ -318,10 +318,6 @@ div.ipsWebFront {
     filter: invert(0.6);
 }
 
-.ipsCategory>.container.hasChildren>.content>.icon {
-	filter: invert(0);
-}
-
 .ipsCategory>.container .content .icon {
 	filter: invert(0.6);
 }
