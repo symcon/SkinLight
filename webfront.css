@@ -500,7 +500,8 @@ div.ipsPanel.ipsDWDReport .title {
 
 .ipsLogin>.content {
 	margin: 0;
-	height: 50%; }
+	height: 50%;
+    overflow-y: hidden; }
 	
 .ipsLogin>.content>.configurators {
 	background: none;
