@@ -309,6 +309,7 @@ div.ipsWebFront {
 /* Invertieren von Symbolen */
 .icon,
 .iconSmall,
+.iconExtraSmall,
 .edit {
     filter: invert(0.6);
 }
