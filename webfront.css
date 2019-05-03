@@ -564,6 +564,9 @@ div.ipsPanel.ipsDWDReport .title {
     padding-top: 36px;
     margin-top: 0;
     bottom: 0;
+    left: 0;
+    top: auto;
+    margin-left: 0;	
     width: 100%;
     background-color: #cacaca;
     animation: slide-up 0.6s ease-in-out; }
