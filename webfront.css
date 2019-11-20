@@ -332,6 +332,7 @@ div.ipsWebFront {
 	filter: invert(0.6);
 }
 
+.ipsNotification .ipsIconClose,
 .ipsDialog .ipsIconClose {
     filter: invert(0.6);
 }
