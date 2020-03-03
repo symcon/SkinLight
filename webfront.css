@@ -449,7 +449,12 @@ div.ipsChart>svg>g.graphs>g.outline>g>path {
 div.ipsChart>svg>g.graphs>g.background>g>path {
 	fill: grey;
     opacity: 0.15; }
-    
+
+div.ipsChart > .overlay {
+        color: black;
+        background-color: rgba(0,0,0,0.1);
+}
+
 .ipsCategory>.container .extended>.textBox, 
 .ipsCategory>.container .extended>.htmlBox, 
 .ipsCategory>.container .extended>.mailBox {
