@@ -49,8 +49,8 @@ body{
 	margin-bottom: -2px; }
 	
 .ipsTabPane>.navigation>.scroll>.buttons>div.active {
-  height: 34px;
-  border-bottom: solid 1px #3aa9ff!important; /* important to circumvent first element has no border css */
+  height: 33px;
+  border-bottom: solid 2px #3aa9ff!important; /* important to circumvent first element has no border css */
   margin-bottom: -5px;
   font-weight: 400; }
 	
