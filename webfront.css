@@ -28,6 +28,13 @@
 body{ 
 	font-family: 'Open Sans', 'Arial Narrow', sans-serif; }
 
+a:link, 
+a:visited, 
+a:focus, 
+a:hover, 
+a:active { 
+	color: #3aa9ff; }
+
 .ipsTabPane>.navigation {
 	font-family: 'Roboto Condensed', 'Arial Narrow', sans-serif; }
 
