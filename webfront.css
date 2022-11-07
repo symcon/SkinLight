@@ -330,6 +330,7 @@ div.ipsWebFront {
 	filter: invert(0.6);
 }
 
+.ipsCategory>.container .content .link>.documentLink, 
 .ipsCategory>.container .content .link>.keyboardLink, 
 .ipsCategory>.container .content .link>.chartLink, 
 .ipsCategory>.container .content .link>.timerLink, 
