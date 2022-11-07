@@ -345,6 +345,10 @@ div.ipsWebFront {
     filter: invert(0.6);
 }
 
+.documentLink.ipsIconDownload {
+    filter: invert(0.6);
+}
+
 .ipsviewLink.ipsIconMove {
     filter: invert(0.6);
 }
